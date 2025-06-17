@@ -3,6 +3,10 @@
   #topbar {
     justify-content: flex-start;
   }
+
+  .clearfix {
+    padding: 100px 0;
+  }
 }
 
 @media screen and (min-width: 991px) {}
