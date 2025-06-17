@@ -8,6 +8,10 @@
     padding: 100px 0;
   }
 
+  .clearfix img {
+    float: left;
+  }
+
   .recipe-title {
     font-size: 1.5rem;
   }
