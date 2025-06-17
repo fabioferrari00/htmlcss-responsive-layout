@@ -8,6 +8,10 @@
     padding: 100px 0;
   }
 
+  .recipe-title {
+    font-size: 1.5rem;
+  }
+
   .recipe-name {
     display: flex;
   }
