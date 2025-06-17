@@ -27,6 +27,10 @@
   .social-networks .btn {
     padding: 10px 60px;
   }
+
+  .ads {
+    display: block;
+  }
 }
 
 @media screen and (min-width: 991px) {}
