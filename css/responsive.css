@@ -4,6 +4,16 @@
     justify-content: flex-start;
   }
 
+  .quick-notes ul {
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+
+  .quick-notes ul li {
+    padding: 0px 30px;
+  }
+
   .clearfix {
     padding: 100px 0;
   }
